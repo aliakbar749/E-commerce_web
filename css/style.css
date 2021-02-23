@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.top{
+    height: 40px;
+    width: 100%;
+    color: aqua;
+}
+.fas{
+    padding-left: 1200px;
+    padding-bottom: 15px;
+}
